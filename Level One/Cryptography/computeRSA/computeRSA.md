@@ -6,6 +6,8 @@ Hints:
 
 >decrypted = (encrypted) ^ d mod N
 
-Well this one was fun. I decided to use python, because of the awesome `pow()` function. Look at the python file if you want to see more.
+Points: 50
+
+Well this one was fun. I decided to use python, because of the awesome `pow()` function. Look at the python file for more.
 
 The flag is `133337`
