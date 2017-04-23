@@ -5,6 +5,8 @@ Hints:
 >Look at using the netcat (nc) command!
 >To figure out how to use it, you can run "man nc" or "nc -h" on the shell, or search for it on the interwebz
 
+Points: 10
+
 Well this one's pretty simple. 
 
 `netcat shell2017.picoctf.com 40660`
