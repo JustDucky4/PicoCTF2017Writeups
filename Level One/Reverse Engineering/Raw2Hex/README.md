@@ -4,10 +4,10 @@ Question:
 Hints:
 >Google is always very helpful in these circumstances. In this case, you should be looking for an easy solution.
 
+Points: 20
+
 I'm not going to lie. I didn't do this problem while the competition was ongoing, but I finished it after it ended. It was a lot easier than I thought it was.
 
-
-`./hex2raw | xxd -p`
 
 ```
 $ ./raw2hex|xxd -p                                        
