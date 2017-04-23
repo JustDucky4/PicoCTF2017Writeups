@@ -1,11 +1,12 @@
 Question:
-
 >A wizard (he seemed kinda odd...) handed me this. Can you figure out what it says?
 
 Hints:
-
 >There are tools that make this easy this.
 In case you're reading this when the link does not work anymore, here is the ciphertext:
+
+Points: 40
+
 ```
 MIT YSAU OL OYGFSBDGRTKFEKBHMGCALSOQTMIOL. UTFTKAMTR ZB DAKQGX EIAOF GY MIT COQOHTROA HAUT GF EASXOF AFR IGZZTL. 
 ZT CTKT SGFU, MIT YSACL GF A 2005 HKTLTFM MODTLMIAF LMADOFA GK A CTTQSB LWFRAB, RTETDZTK 21, 1989 1990, MIT RKTC TROMGKL 
