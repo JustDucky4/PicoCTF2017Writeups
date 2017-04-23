@@ -5,6 +5,8 @@ Question:
 Hints:
 >All concepts required to complete this challenge, including simple modular math, are quickly found by googling :)
 
+Points: 50
+
 All right, let's start by connecting to the shell.
 
 `netcat shell2017.picoctfcom 9661`
