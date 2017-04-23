@@ -6,6 +6,8 @@ Hints:
 >I hear python is a good means (among many) to generate the needed input.
 >It might help to have multiple windows open
 
+Points: 20
+
 Just as the hint suggests, I used a python file. The question had a certain format. It was always something along the lines of:
 
 ```
