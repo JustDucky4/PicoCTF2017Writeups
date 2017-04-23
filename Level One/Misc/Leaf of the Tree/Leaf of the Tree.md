@@ -4,6 +4,8 @@ Question:
 Hints:
 >Tab completion is a wonderful, wonderful thing
 
+Points: 20
+
 It most certainly is.
 
 Tab completion is for when you don't want to type out the full name of what you're looking for, if it is the only one in the directory with a similar enough name.
