@@ -4,6 +4,8 @@ Question:
 Hints:
 >Normally, you pick e and generate d from that. What appears to have happened in this case? What is likely about the size of d?
 
+Points: 120
+
 This problem can be solved by Wiener's attack. I used [this tool](https://github.com/pablocelayes/rsa-wiener-attack) to find `d`, and then cracked the ciphertext `c`. I edited the python file to make it specific to this problem.
 
 The flag is `flag{Are_any_RSA_vals_good_13441315963}`
