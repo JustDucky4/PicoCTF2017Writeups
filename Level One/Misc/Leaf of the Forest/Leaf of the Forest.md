@@ -4,6 +4,8 @@ Question:
 Hints:
 >Is there a search function in Linux? Like if I wanted to 'find' something...
 
+Points: 30
+
 Luckily enough, there is. It's the `find` command. It's pretty awesome.
 
 We can use it like this:
