@@ -4,6 +4,8 @@ Question:
 Hints:
 >Google for easy techniques of getting raw output to command line. In this case, you should be looking for an easy solution.
 
+Points: 20
+
 ```
 $ ./hex2raw                                               
 Give me this in raw form (0x41 -> 'A'):                     
